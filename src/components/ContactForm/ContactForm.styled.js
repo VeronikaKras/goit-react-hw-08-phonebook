@@ -16,7 +16,7 @@ export const Button = styled.button`
     font-family: Cambria;
     padding: 16px;
     margin-bottom: 16px;
-    color: orangered;
+    color: rgb(108, 240, 141);
     background-color: white; 
     border: 1px solid;
     border-radius: 8px;
@@ -25,7 +25,7 @@ export const Button = styled.button`
     &:hover,
     &:focus {
         color: white;
-        background-color: orangered;
+        background-color: rgb(108, 240, 141);
         border-color: none;
     }
 `;
@@ -34,7 +34,7 @@ export const LabelForm = styled.label`
     font-family: Cambria;
     font-weight: 700;
     font-size: 24px;
-    color: #5e5e5e;
+    color: rgb(108, 240, 141);
 `; 
 
 export const InputForm = styled.input`
